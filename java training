@@ -1,0 +1,33 @@
+// Even Numbers //
+class evennumbers{
+      public static voidmain(string[]args){
+              int num;
+              if ( num % 2==0 ){
+                  system.out.println(" number is even");
+              }
+      }        
+  }
+  
+  
+  // odd numbers //
+  
+   class oddnumber{
+         public static voidmain(string[]args){
+                int num;
+                if ( num % 2!=0 ){
+                   system.out.println(" number is even");
+              }
+      }        
+  }
+        
+        
+  // last digit in a number //
+  class lastdigit{
+        public static voidmain(string[]args){
+               int num;
+               return num%10;
+        }
+        
+  }      
+        
+        
